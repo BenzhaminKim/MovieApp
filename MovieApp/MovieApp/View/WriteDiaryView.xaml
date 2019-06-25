@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="일기쓰기"
+             Icon="WriteDiary.png"
+             x:Class="MovieApp.View.WriteDiaryView">
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,20">
+            <Entry Placeholder="제목" PlaceholderColor="DimGray" />
+            <Editor Placeholder="나의 일기" PlaceholderColor="LightGray" HeightRequest="200" />
+            <Button Text="ADD" VerticalOptions="Center" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

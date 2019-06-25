@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="일기"
+             Icon="MyDiary.png"
+             x:Class="MovieApp.View.DiaryListView">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <ListView 
+                      CachingStrategy="RecycleElement"
+                      ItemsSource="" 
+                      HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <StackLayout Padding="5,0,5,0" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
+                                <Label Text="title" VerticalTextAlignment="Center" FontSize="Small"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

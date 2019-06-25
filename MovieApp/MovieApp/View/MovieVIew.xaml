@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MovieApp.View.MovieVIew">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="liv_movies"
+                      CachingStrategy="RecycleElement"
+                      ItemsSource="{Binding Movies}" 
+                      HasUnevenRows="True"
+                      SelectedItem="{Binding SelectedMovie}">
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <StackLayout Padding="5,0,5,0" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
+                                <Image WidthRequest="50" HeightRequest="50">
+                                    <Image.Source>
+                                        <UriImageSource Uri="{Binding Poster}" CacheValidity="14" CachingEnabled="True"/>
+                                    </Image.Source>
+                                </Image>
+                                <Label Text="{Binding Title}" VerticalTextAlignment="Center" FontSize="Small"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

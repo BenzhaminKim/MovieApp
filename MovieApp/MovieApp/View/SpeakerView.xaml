@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MovieApp"
+             Title="영화"
+             Icon="FriendsStory.png"
+             x:Class="MovieApp.View.SpeakerView">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="10" >
+            <Label Text="C# Conference " FontSize="34"/>
+            <ListView x:Name="listSpeakers"
+                       ItemsSource="{Binding Speakers}" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Topic}" TextColor="Pink" Detail="{Binding Name}" DetailColor="Aqua"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Movies" Command="{Binding OpenMoviesPageCommand}"></Button>
+            <ActivityIndicator IsRunning="{Binding IsBusy}" VerticalOptions="Center" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

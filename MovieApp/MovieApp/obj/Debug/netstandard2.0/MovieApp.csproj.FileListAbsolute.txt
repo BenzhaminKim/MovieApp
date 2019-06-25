@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\bin\Debug\netstandard2.0\MovieApp.deps.json
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\bin\Debug\netstandard2.0\MovieApp.dll
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\bin\Debug\netstandard2.0\MovieApp.pdb
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\SpeakerView.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.dll
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\MovieApp.pdb
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\MovieVIew.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\DetailView.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\DiaryListView.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\WriteDiaryView.xaml.g.cs
