@@ -7,15 +7,16 @@
     <ContentPage.Content>
         <StackLayout>
 
-            <ListView 
+            <ListView x:Name="liv_diary"
                       CachingStrategy="RecycleElement"
-                      ItemsSource="" 
-                      HasUnevenRows="True">
+                      ItemsSource="{Binding Diaries}" 
+                      HasUnevenRows="True"
+                      SelectedItem="{Binding SelectedDiary}">
                 <ListView.ItemTemplate>
                     <DataTemplate >
                         <ViewCell>
                             <StackLayout Padding="5,0,5,0" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
-                                <Label Text="title" VerticalTextAlignment="Center" FontSize="Small"/>
+                                <Label Text="{Binding Title}" VerticalTextAlignment="Center" FontSize="Small"/>
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

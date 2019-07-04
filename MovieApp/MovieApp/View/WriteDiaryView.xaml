@@ -6,9 +6,9 @@
              x:Class="MovieApp.View.WriteDiaryView">
     <ContentPage.Content>
         <StackLayout Margin="20,35,20,20">
-            <Entry Placeholder="제목" PlaceholderColor="DimGray" />
-            <Editor Placeholder="나의 일기" PlaceholderColor="LightGray" HeightRequest="200" />
-            <Button Text="ADD" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Entry Placeholder="제목" PlaceholderColor="DimGray" Text="{Binding Title}" />
+            <Editor Placeholder="나의 일기" PlaceholderColor="LightGray" HeightRequest="200" Text="{Binding Content}"/>
+            <Button Text="ADD" VerticalOptions="Center" HorizontalOptions="Center" Command="{Binding AddDiaryCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Data;
 
-namespace MovieApp.Data_App
+namespace MovieApp
 {
     public class SqlClient : IDisposable
     {

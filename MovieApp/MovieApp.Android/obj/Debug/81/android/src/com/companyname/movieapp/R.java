@@ -501,6 +501,33 @@ containing a value of this type.
 </table>
          */
         public static final int buttonTintMode=0x7f0100ce;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int captionText=0x7f010178;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int captionTextColor=0x7f01017a;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int captionTextSize=0x7f010179;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -564,6 +591,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int checkedTextViewStyle=0x7f0100be;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int clearLabelText=0x7f01017e;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int clearLabelTextColor=0x7f010180;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int clearLabelTextSize=0x7f01017f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2006,6 +2060,62 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int showTitle=0x7f010048;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signatureLineColor=0x7f010175;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signatureLineSpacing=0x7f010177;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signatureLineWidth=0x7f010176;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signaturePromptText=0x7f01017b;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signaturePromptTextColor=0x7f01017d;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int signaturePromptTextSize=0x7f01017c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2091,6 +2201,25 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int statusBarScrim=0x7f010128;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int strokeColor=0x7f010173;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int strokeWidth=0x7f010174;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2740,30 +2869,30 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f0e0004;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0d004f;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0d0050;
-        public static final int abc_btn_colored_borderless_text_material=0x7f0d0051;
-        public static final int abc_btn_colored_text_material=0x7f0d0052;
-        public static final int abc_color_highlight_material=0x7f0d0053;
-        public static final int abc_hint_foreground_material_dark=0x7f0d0054;
-        public static final int abc_hint_foreground_material_light=0x7f0d0055;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0d0051;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0d0052;
+        public static final int abc_btn_colored_borderless_text_material=0x7f0d0053;
+        public static final int abc_btn_colored_text_material=0x7f0d0054;
+        public static final int abc_color_highlight_material=0x7f0d0055;
+        public static final int abc_hint_foreground_material_dark=0x7f0d0056;
+        public static final int abc_hint_foreground_material_light=0x7f0d0057;
         public static final int abc_input_method_navigation_guard=0x7f0d0004;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0d0056;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0d0057;
-        public static final int abc_primary_text_material_dark=0x7f0d0058;
-        public static final int abc_primary_text_material_light=0x7f0d0059;
-        public static final int abc_search_url_text=0x7f0d005a;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0d0058;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0d0059;
+        public static final int abc_primary_text_material_dark=0x7f0d005a;
+        public static final int abc_primary_text_material_light=0x7f0d005b;
+        public static final int abc_search_url_text=0x7f0d005c;
         public static final int abc_search_url_text_normal=0x7f0d0005;
         public static final int abc_search_url_text_pressed=0x7f0d0006;
         public static final int abc_search_url_text_selected=0x7f0d0007;
-        public static final int abc_secondary_text_material_dark=0x7f0d005b;
-        public static final int abc_secondary_text_material_light=0x7f0d005c;
-        public static final int abc_tint_btn_checkable=0x7f0d005d;
-        public static final int abc_tint_default=0x7f0d005e;
-        public static final int abc_tint_edittext=0x7f0d005f;
-        public static final int abc_tint_seek_thumb=0x7f0d0060;
-        public static final int abc_tint_spinner=0x7f0d0061;
-        public static final int abc_tint_switch_track=0x7f0d0062;
+        public static final int abc_secondary_text_material_dark=0x7f0d005d;
+        public static final int abc_secondary_text_material_light=0x7f0d005e;
+        public static final int abc_tint_btn_checkable=0x7f0d005f;
+        public static final int abc_tint_default=0x7f0d0060;
+        public static final int abc_tint_edittext=0x7f0d0061;
+        public static final int abc_tint_seek_thumb=0x7f0d0062;
+        public static final int abc_tint_spinner=0x7f0d0063;
+        public static final int abc_tint_switch_track=0x7f0d0064;
         public static final int accent_material_dark=0x7f0d0008;
         public static final int accent_material_light=0x7f0d0009;
         public static final int background_floating_material_dark=0x7f0d000a;
@@ -2782,11 +2911,11 @@ containing a value of this type.
         public static final int cardview_light_background=0x7f0d0001;
         public static final int cardview_shadow_end_color=0x7f0d0002;
         public static final int cardview_shadow_start_color=0x7f0d0003;
-        public static final int colorAccent=0x7f0d004e;
-        public static final int colorPrimary=0x7f0d004c;
-        public static final int colorPrimaryDark=0x7f0d004d;
+        public static final int colorAccent=0x7f0d0050;
+        public static final int colorPrimary=0x7f0d004e;
+        public static final int colorPrimaryDark=0x7f0d004f;
         public static final int design_bottom_navigation_shadow_color=0x7f0d0040;
-        public static final int design_error=0x7f0d0063;
+        public static final int design_error=0x7f0d0065;
         public static final int design_fab_shadow_end_color=0x7f0d0041;
         public static final int design_fab_shadow_mid_color=0x7f0d0042;
         public static final int design_fab_shadow_start_color=0x7f0d0043;
@@ -2795,7 +2924,7 @@ containing a value of this type.
         public static final int design_fab_stroke_top_inner_color=0x7f0d0046;
         public static final int design_fab_stroke_top_outer_color=0x7f0d0047;
         public static final int design_snackbar_background_color=0x7f0d0048;
-        public static final int design_tint_password_toggle=0x7f0d0064;
+        public static final int design_tint_password_toggle=0x7f0d0066;
         public static final int dim_foreground_disabled_material_dark=0x7f0d0016;
         public static final int dim_foreground_disabled_material_light=0x7f0d0017;
         public static final int dim_foreground_material_dark=0x7f0d0018;
@@ -2805,7 +2934,7 @@ containing a value of this type.
         public static final int foreground_material_light=0x7f0d001c;
         public static final int highlighted_text_material_dark=0x7f0d001d;
         public static final int highlighted_text_material_light=0x7f0d001e;
-        public static final int launcher_background=0x7f0d004b;
+        public static final int launcher_background=0x7f0d004d;
         public static final int material_blue_grey_800=0x7f0d001f;
         public static final int material_blue_grey_900=0x7f0d0020;
         public static final int material_blue_grey_950=0x7f0d0021;
@@ -2835,10 +2964,12 @@ containing a value of this type.
         public static final int secondary_text_default_material_light=0x7f0d0036;
         public static final int secondary_text_disabled_material_dark=0x7f0d0037;
         public static final int secondary_text_disabled_material_light=0x7f0d0038;
+        public static final int signature_pad_dark_color=0x7f0d004c;
+        public static final int signature_pad_light_color=0x7f0d004b;
         public static final int switch_thumb_disabled_material_dark=0x7f0d0039;
         public static final int switch_thumb_disabled_material_light=0x7f0d003a;
-        public static final int switch_thumb_material_dark=0x7f0d0065;
-        public static final int switch_thumb_material_light=0x7f0d0066;
+        public static final int switch_thumb_material_dark=0x7f0d0067;
+        public static final int switch_thumb_material_light=0x7f0d0068;
         public static final int switch_thumb_normal_material_dark=0x7f0d003b;
         public static final int switch_thumb_normal_material_light=0x7f0d003c;
         public static final int tooltip_background_dark=0x7f0d003d;
@@ -3001,6 +3132,10 @@ containing a value of this type.
         public static final int notification_subtext_size=0x7f0800a1;
         public static final int notification_top_pad=0x7f0800a2;
         public static final int notification_top_pad_large_text=0x7f0800a3;
+        public static final int signature_pad_font_size=0x7f0800a7;
+        public static final int signature_pad_line_thickness=0x7f0800a6;
+        public static final int signature_pad_narrow_spacing=0x7f0800a5;
+        public static final int signature_pad_wide_spacing=0x7f0800a4;
         public static final int tooltip_corner_radius=0x7f080062;
         public static final int tooltip_horizontal_padding=0x7f080063;
         public static final int tooltip_margin=0x7f080064;
@@ -3095,13 +3230,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f020132;
-        public static final int avd_hide_password_2=0x7f020133;
-        public static final int avd_hide_password_3=0x7f020134;
+        public static final int avd_hide_password_1=0x7f020133;
+        public static final int avd_hide_password_2=0x7f020134;
+        public static final int avd_hide_password_3=0x7f020135;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f020135;
-        public static final int avd_show_password_2=0x7f020136;
-        public static final int avd_show_password_3=0x7f020137;
+        public static final int avd_show_password_1=0x7f020136;
+        public static final int avd_show_password_2=0x7f020137;
+        public static final int avd_show_password_3=0x7f020138;
         public static final int design_bottom_navigation_item_background=0x7f020055;
         public static final int design_fab_background=0x7f020056;
         public static final int design_ic_visibility=0x7f020057;
@@ -3316,13 +3451,14 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020128;
         public static final int notification_bg_normal_pressed=0x7f020129;
         public static final int notification_icon_background=0x7f02012a;
-        public static final int notification_template_icon_bg=0x7f020130;
-        public static final int notification_template_icon_low_bg=0x7f020131;
+        public static final int notification_template_icon_bg=0x7f020131;
+        public static final int notification_template_icon_low_bg=0x7f020132;
         public static final int notification_tile_bg=0x7f02012b;
         public static final int notify_panel_notification_icon_bg=0x7f02012c;
-        public static final int tooltip_frame_dark=0x7f02012d;
-        public static final int tooltip_frame_light=0x7f02012e;
-        public static final int writediary=0x7f02012f;
+        public static final int signature_pad_background=0x7f02012d;
+        public static final int tooltip_frame_dark=0x7f02012e;
+        public static final int tooltip_frame_light=0x7f02012f;
+        public static final int writediary=0x7f020130;
     }
     public static final class id {
         public static final int ALT=0x7f090032;
@@ -3357,16 +3493,19 @@ containing a value of this type.
         public static final int always=0x7f090038;
         public static final int async=0x7f090056;
         public static final int auto=0x7f090044;
+        public static final int background_image=0x7f0900c6;
         public static final int beginning=0x7f09002f;
         public static final int blocking=0x7f090057;
         public static final int bottom=0x7f09003d;
         public static final int buttonPanel=0x7f090063;
         public static final int cancel_action=0x7f0900b7;
+        public static final int caption=0x7f0900c8;
         public static final int center=0x7f090045;
         public static final int center_horizontal=0x7f090046;
         public static final int center_vertical=0x7f090047;
         public static final int checkbox=0x7f090073;
         public static final int chronometer=0x7f0900bf;
+        public static final int clear_label=0x7f0900cb;
         public static final int clip_horizontal=0x7f09004e;
         public static final int clip_vertical=0x7f09004f;
         public static final int collapseActionView=0x7f090039;
@@ -3412,9 +3551,9 @@ containing a value of this type.
         public static final int line3=0x7f090018;
         public static final int listMode=0x7f09001d;
         public static final int list_item=0x7f090061;
-        public static final int masked=0x7f0900ca;
+        public static final int masked=0x7f0900d0;
         public static final int media_actions=0x7f0900b9;
-        public static final int message=0x7f0900c8;
+        public static final int message=0x7f0900ce;
         public static final int middle=0x7f090031;
         public static final int mini=0x7f090053;
         public static final int mr_art=0x7f0900a5;
@@ -3484,7 +3623,10 @@ containing a value of this type.
         public static final int showCustom=0x7f090023;
         public static final int showHome=0x7f090024;
         public static final int showTitle=0x7f090025;
-        public static final int sliding_tabs=0x7f0900c6;
+        public static final int signature_canvas=0x7f0900c7;
+        public static final int signature_line=0x7f0900c9;
+        public static final int signature_prompt=0x7f0900ca;
+        public static final int sliding_tabs=0x7f0900cc;
         public static final int smallLabel=0x7f09008b;
         public static final int snackbar_action=0x7f090092;
         public static final int snackbar_text=0x7f090091;
@@ -3511,7 +3653,7 @@ containing a value of this type.
         public static final int title=0x7f09001c;
         public static final int titleDividerNoCustom=0x7f090071;
         public static final int title_template=0x7f09006f;
-        public static final int toolbar=0x7f0900c7;
+        public static final int toolbar=0x7f0900cd;
         public static final int top=0x7f09003e;
         public static final int topPanel=0x7f09006e;
         public static final int touch_outside=0x7f09008f;
@@ -3524,7 +3666,7 @@ containing a value of this type.
         public static final int up=0x7f090009;
         public static final int useLogo=0x7f090026;
         public static final int view_offset_helper=0x7f090016;
-        public static final int visible=0x7f0900c9;
+        public static final int visible=0x7f0900cf;
         public static final int volume_item_container=0x7f0900ab;
         public static final int withText=0x7f09003c;
         public static final int wrap_content=0x7f09002e;
@@ -3613,10 +3755,11 @@ containing a value of this type.
         public static final int select_dialog_item_material=0x7f04003d;
         public static final int select_dialog_multichoice_material=0x7f04003e;
         public static final int select_dialog_singlechoice_material=0x7f04003f;
-        public static final int support_simple_spinner_dropdown_item=0x7f040040;
-        public static final int tabbar=0x7f040041;
-        public static final int toolbar=0x7f040042;
-        public static final int tooltip=0x7f040043;
+        public static final int signature_pad_layout=0x7f040040;
+        public static final int support_simple_spinner_dropdown_item=0x7f040041;
+        public static final int tabbar=0x7f040042;
+        public static final int toolbar=0x7f040043;
+        public static final int tooltip=0x7f040044;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;
@@ -3683,6 +3826,9 @@ containing a value of this type.
         public static final int path_password_eye_mask_visible=0x7f0a0039;
         public static final int path_password_strike_through=0x7f0a003a;
         public static final int search_menu_title=0x7f0a0026;
+        public static final int signature_pad_caption_text=0x7f0a003e;
+        public static final int signature_pad_clear_label_text=0x7f0a003c;
+        public static final int signature_pad_prompt_text=0x7f0a003d;
         public static final int status_bar_notification_info_overflow=0x7f0a003b;
     }
     public static final class style {
@@ -10024,6 +10170,261 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.companyname.MovieApp:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
+        /** Attributes that can be used with a SignaturePadView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SignaturePadView_captionText com.companyname.MovieApp:captionText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_captionTextColor com.companyname.MovieApp:captionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_captionTextSize com.companyname.MovieApp:captionTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_clearLabelText com.companyname.MovieApp:clearLabelText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_clearLabelTextColor com.companyname.MovieApp:clearLabelTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_clearLabelTextSize com.companyname.MovieApp:clearLabelTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signatureLineColor com.companyname.MovieApp:signatureLineColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signatureLineSpacing com.companyname.MovieApp:signatureLineSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signatureLineWidth com.companyname.MovieApp:signatureLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signaturePromptText com.companyname.MovieApp:signaturePromptText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signaturePromptTextColor com.companyname.MovieApp:signaturePromptTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_signaturePromptTextSize com.companyname.MovieApp:signaturePromptTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_strokeColor com.companyname.MovieApp:strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignaturePadView_strokeWidth com.companyname.MovieApp:strokeWidth}</code></td><td></td></tr>
+           </table>
+           @see #SignaturePadView_captionText
+           @see #SignaturePadView_captionTextColor
+           @see #SignaturePadView_captionTextSize
+           @see #SignaturePadView_clearLabelText
+           @see #SignaturePadView_clearLabelTextColor
+           @see #SignaturePadView_clearLabelTextSize
+           @see #SignaturePadView_signatureLineColor
+           @see #SignaturePadView_signatureLineSpacing
+           @see #SignaturePadView_signatureLineWidth
+           @see #SignaturePadView_signaturePromptText
+           @see #SignaturePadView_signaturePromptTextColor
+           @see #SignaturePadView_signaturePromptTextSize
+           @see #SignaturePadView_strokeColor
+           @see #SignaturePadView_strokeWidth
+         */
+        public static final int[] SignaturePadView = {
+            0x7f010173, 0x7f010174, 0x7f010175, 0x7f010176,
+            0x7f010177, 0x7f010178, 0x7f010179, 0x7f01017a,
+            0x7f01017b, 0x7f01017c, 0x7f01017d, 0x7f01017e,
+            0x7f01017f, 0x7f010180
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#captionText}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:captionText
+        */
+        public static final int SignaturePadView_captionText = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#captionTextColor}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:captionTextColor
+        */
+        public static final int SignaturePadView_captionTextColor = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#captionTextSize}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:captionTextSize
+        */
+        public static final int SignaturePadView_captionTextSize = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#clearLabelText}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:clearLabelText
+        */
+        public static final int SignaturePadView_clearLabelText = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#clearLabelTextColor}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:clearLabelTextColor
+        */
+        public static final int SignaturePadView_clearLabelTextColor = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#clearLabelTextSize}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:clearLabelTextSize
+        */
+        public static final int SignaturePadView_clearLabelTextSize = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signatureLineColor}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signatureLineColor
+        */
+        public static final int SignaturePadView_signatureLineColor = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signatureLineSpacing}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signatureLineSpacing
+        */
+        public static final int SignaturePadView_signatureLineSpacing = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signatureLineWidth}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signatureLineWidth
+        */
+        public static final int SignaturePadView_signatureLineWidth = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signaturePromptText}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signaturePromptText
+        */
+        public static final int SignaturePadView_signaturePromptText = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signaturePromptTextColor}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signaturePromptTextColor
+        */
+        public static final int SignaturePadView_signaturePromptTextColor = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#signaturePromptTextSize}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:signaturePromptTextSize
+        */
+        public static final int SignaturePadView_signaturePromptTextSize = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#strokeColor}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:strokeColor
+        */
+        public static final int SignaturePadView_strokeColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.companyname.MovieApp.R.attr#strokeWidth}
+          attribute's value can be found in the {@link #SignaturePadView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.companyname.MovieApp:strokeWidth
+        */
+        public static final int SignaturePadView_strokeWidth = 1;
         /** Attributes that can be used with a SnackbarLayout.
            <p>Includes the following attributes:</p>
            <table>

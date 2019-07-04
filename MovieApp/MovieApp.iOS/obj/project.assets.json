@@ -181,6 +181,7 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
           "System.Data.SqlClient": "4.6.1",
+          "Xamarin.Controls.SignaturePad.Forms": "3.0.0",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -361,6 +362,7 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
           "System.Data.SqlClient": "4.6.1",
+          "Xamarin.Controls.SignaturePad.Forms": "3.0.0",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -541,6 +543,7 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
           "System.Data.SqlClient": "4.6.1",
+          "Xamarin.Controls.SignaturePad.Forms": "3.0.0",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -721,6 +724,7 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
           "System.Data.SqlClient": "4.6.1",
+          "Xamarin.Controls.SignaturePad.Forms": "3.0.0",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {

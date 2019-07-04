@@ -14,3 +14,4 @@ C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\DetailView.xaml.g.cs
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\DiaryListView.xaml.g.cs
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\View\WriteDiaryView.xaml.g.cs
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp\obj\Debug\netstandard2.0\XamlC.stamp

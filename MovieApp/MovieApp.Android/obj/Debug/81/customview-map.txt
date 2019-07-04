@@ -1,0 +1,14 @@
+attr;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\attrs.xml
+color;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\signature_pad_defaults.xml
+declare-styleable;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\attrs.xml
+dimen;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\signature_pad_defaults.xml
+ImageView;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\layout\signature_pad_layout.xml
+merge;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\layout\signature_pad_layout.xml
+resources;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\attrs.xml
+resources;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\signature_pad_defaults.xml
+shape;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\drawable\signature_pad_background.xml
+solid;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\drawable\signature_pad_background.xml
+string;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\values\signature_pad_defaults.xml
+TextView;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\layout\signature_pad_layout.xml
+View;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\layout\signature_pad_layout.xml
+Xamarin.Controls.SignaturePadCanvasView;C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\lp\28\jl\res\layout\signature_pad_layout.xml

@@ -5,6 +5,8 @@ C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\o
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\MovieApp.dll
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\SignaturePad.dll
+C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\SignaturePad.Forms.dll
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\System.Core.dll
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\System.dll
 C:\Users\Administrator\source\repos\xamarin\MovieApp\MovieApp\MovieApp.Android\obj\Debug\81\android\assets\System.Xml.dll

@@ -2,11 +2,21 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Collections.Generic;
+using Xamarin.Forms;
 
 namespace MovieApp.ViewModel
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
+        bool isBusy = false;
+        public bool IsBusy
+        {
+            get { return isBusy; }
+            set { SetProperty(ref isBusy, value); }
+        }
+
+        public Page ViewPage { get; set; }
+
         protected virtual bool SetProperty<T>(ref T name, T value, [CallerMemberName]string propertyName = "", Action onChanged = null,
     Func<T, T, bool> validateValue = null)
         {
